@@ -3,4 +3,12 @@
   <groupId>mateusz.labuda</groupId>
   <artifactId>MainEulerProject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <modules>
+  	<module>Problem1</module>
+  	<module>Problem2</module>
+  	<module>Problem3</module>
+  	<module>Problem4</module>
+  	<module>Project5</module>
+  </modules>
 </project>
