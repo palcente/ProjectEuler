@@ -5,5 +5,5 @@
     <artifactId>MainEulerProject</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>Project5</artifactId>
+  <artifactId>Problem5</artifactId>
 </project>
